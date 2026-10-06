@@ -1,0 +1,7 @@
+method syntax:
+modifier return-type m-name(formal arguments) 
+{
+--
+--
+return statement
+}
